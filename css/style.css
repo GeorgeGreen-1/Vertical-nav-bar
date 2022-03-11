@@ -3,6 +3,7 @@ body{
     background: darkgray;
 }
 .wrapper{
+    position: relative;
     background-color: royalblue;
     width: 400px;
     height: 100vh;
@@ -44,3 +45,19 @@ header input{
     margin-top: 50px;
     cursor: pointer;
 }
+.soc-med{
+    position: absolute;
+    left: 130px;
+    bottom: 25px;
+}
+.fa-brands{
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.fa-instagram{
+    margin-left: 25px;
+} 
+.fa-github{
+    margin-left: 25px;
+} 
