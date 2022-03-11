@@ -1,0 +1,32 @@
+.wrapper{
+    background-color: royalblue;
+    width: 400px;
+    height: 100vh;
+}
+header{
+    display: inline-block;
+}
+.logo{
+    margin: 40px 0 0 25px;
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+}
+header input{
+    vertical-align: middle;
+    border: none;
+    border-radius: 5px;
+    margin: 40px 0 0 15px;
+    text-align: center;
+    height: 30px;
+    background-color: black;
+    color: royalblue;
+    font-size: 22px;
+}
+.fa-solid{
+    vertical-align: middle;
+    margin: 40px 0 0 5px;
+    font-size: 22px;
+    cursor: pointer;
+}
